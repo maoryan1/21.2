@@ -1,0 +1,9 @@
+var a = prompt ("choose number")
+if (a>0)
+  alert ("positive")
+  if (a<0)
+    alret ("negative")
+    if (a==0)
+      alert ("equal")
+      
+  
